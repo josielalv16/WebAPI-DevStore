@@ -1,0 +1,8 @@
+Treinamento: APIs com WebAPI - Parte 5
+https://www.youtube.com/watch?v=muOTtJkjxMY&index=6&list=PLLTWMs7ZCUZMq-C1B4LwSTXgfrQl5gdis
+
+C# - WebAPI REST (Parte 1)
+https://www.youtube.com/watch?v=WYmJEI4M2Pk&list=PLxKqk8K6a4TwCH-fyVazdAAXrzmlhBX8C
+
+ASP.NET - Curso de Iniciação
+https://www.youtube.com/watch?v=Z3DU-Jpft74&list=PLXik_5Br-zO-5SRVrpNHnP4uVMBL2Gqz2

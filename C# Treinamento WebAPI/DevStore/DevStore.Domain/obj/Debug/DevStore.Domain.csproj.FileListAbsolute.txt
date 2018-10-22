@@ -1,0 +1,11 @@
+C:\Users\josiel.alves\Desktop\TreinamentoBackEnd\C# Treinamento WebAPI\DevStore\DevStore.Domain\bin\Debug\DevStore.Domain.dll
+C:\Users\josiel.alves\Desktop\TreinamentoBackEnd\C# Treinamento WebAPI\DevStore\DevStore.Domain\bin\Debug\DevStore.Domain.pdb
+C:\Users\josiel.alves\Desktop\TreinamentoBackEnd\C# Treinamento WebAPI\DevStore\DevStore.Domain\obj\Debug\DevStore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\josiel.alves\Desktop\TreinamentoBackEnd\C# Treinamento WebAPI\DevStore\DevStore.Domain\obj\Debug\DevStore.Domain.dll
+C:\Users\josiel.alves\Desktop\TreinamentoBackEnd\C# Treinamento WebAPI\DevStore\DevStore.Domain\obj\Debug\DevStore.Domain.pdb
+C:\Users\josiel.alves\Desktop\WebAPI C#\WebAPI-DevStore\C# Treinamento WebAPI\DevStore\DevStore.Domain\bin\Debug\DevStore.Domain.dll
+C:\Users\josiel.alves\Desktop\WebAPI C#\WebAPI-DevStore\C# Treinamento WebAPI\DevStore\DevStore.Domain\bin\Debug\DevStore.Domain.pdb
+C:\Users\josiel.alves\Desktop\WebAPI C#\WebAPI-DevStore\C# Treinamento WebAPI\DevStore\DevStore.Domain\obj\Debug\DevStore.Domain.csprojAssemblyReference.cache
+C:\Users\josiel.alves\Desktop\WebAPI C#\WebAPI-DevStore\C# Treinamento WebAPI\DevStore\DevStore.Domain\obj\Debug\DevStore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\josiel.alves\Desktop\WebAPI C#\WebAPI-DevStore\C# Treinamento WebAPI\DevStore\DevStore.Domain\obj\Debug\DevStore.Domain.dll
+C:\Users\josiel.alves\Desktop\WebAPI C#\WebAPI-DevStore\C# Treinamento WebAPI\DevStore\DevStore.Domain\obj\Debug\DevStore.Domain.pdb
