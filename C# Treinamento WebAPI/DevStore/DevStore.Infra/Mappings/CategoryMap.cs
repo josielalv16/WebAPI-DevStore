@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Data.Entity.ModelConfiguration;
 using System.Linq;
 using System.Text;
+using System.Threading.Tasks;
 
 namespace DevStore.Infra.Mappings
 {
@@ -12,7 +13,9 @@ namespace DevStore.Infra.Mappings
         public CategoryMap()
         {
             ToTable("Category");
+
             HasKey(x => x.Id);
+
             Property(x => x.Title).HasMaxLength(60).IsRequired();
         }
     }

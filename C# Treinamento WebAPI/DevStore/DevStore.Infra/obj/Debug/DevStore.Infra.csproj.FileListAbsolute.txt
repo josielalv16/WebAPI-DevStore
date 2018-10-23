@@ -1,28 +1,14 @@
-C:\Users\josiel.alves\Desktop\TreinamentoBackEnd\C# Treinamento WebAPI\DevStore\DevStore.Infra\bin\Debug\DevStore.Infra.dll.config
-C:\Users\josiel.alves\Desktop\TreinamentoBackEnd\C# Treinamento WebAPI\DevStore\DevStore.Infra\bin\Debug\DevStore.Infra.dll
-C:\Users\josiel.alves\Desktop\TreinamentoBackEnd\C# Treinamento WebAPI\DevStore\DevStore.Infra\bin\Debug\DevStore.Infra.pdb
-C:\Users\josiel.alves\Desktop\TreinamentoBackEnd\C# Treinamento WebAPI\DevStore\DevStore.Infra\bin\Debug\DevStore.Domain.dll
-C:\Users\josiel.alves\Desktop\TreinamentoBackEnd\C# Treinamento WebAPI\DevStore\DevStore.Infra\bin\Debug\EntityFramework.dll
-C:\Users\josiel.alves\Desktop\TreinamentoBackEnd\C# Treinamento WebAPI\DevStore\DevStore.Infra\bin\Debug\EntityFramework.SqlServer.dll
-C:\Users\josiel.alves\Desktop\TreinamentoBackEnd\C# Treinamento WebAPI\DevStore\DevStore.Infra\bin\Debug\DevStore.Domain.pdb
-C:\Users\josiel.alves\Desktop\TreinamentoBackEnd\C# Treinamento WebAPI\DevStore\DevStore.Infra\bin\Debug\EntityFramework.xml
-C:\Users\josiel.alves\Desktop\TreinamentoBackEnd\C# Treinamento WebAPI\DevStore\DevStore.Infra\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\josiel.alves\Desktop\TreinamentoBackEnd\C# Treinamento WebAPI\DevStore\DevStore.Infra\obj\Debug\DevStore.Infra.csprojAssemblyReference.cache
-C:\Users\josiel.alves\Desktop\TreinamentoBackEnd\C# Treinamento WebAPI\DevStore\DevStore.Infra\obj\Debug\DevStore.Infra.csproj.CoreCompileInputs.cache
-C:\Users\josiel.alves\Desktop\TreinamentoBackEnd\C# Treinamento WebAPI\DevStore\DevStore.Infra\obj\Debug\DevStore.Infra.csproj.CopyComplete
-C:\Users\josiel.alves\Desktop\TreinamentoBackEnd\C# Treinamento WebAPI\DevStore\DevStore.Infra\obj\Debug\DevStore.Infra.dll
-C:\Users\josiel.alves\Desktop\TreinamentoBackEnd\C# Treinamento WebAPI\DevStore\DevStore.Infra\obj\Debug\DevStore.Infra.pdb
-C:\Users\josiel.alves\Desktop\WebAPI C#\WebAPI-DevStore\C# Treinamento WebAPI\DevStore\DevStore.Infra\bin\Debug\DevStore.Infra.dll.config
-C:\Users\josiel.alves\Desktop\WebAPI C#\WebAPI-DevStore\C# Treinamento WebAPI\DevStore\DevStore.Infra\bin\Debug\DevStore.Infra.dll
-C:\Users\josiel.alves\Desktop\WebAPI C#\WebAPI-DevStore\C# Treinamento WebAPI\DevStore\DevStore.Infra\bin\Debug\DevStore.Infra.pdb
-C:\Users\josiel.alves\Desktop\WebAPI C#\WebAPI-DevStore\C# Treinamento WebAPI\DevStore\DevStore.Infra\bin\Debug\DevStore.Domain.dll
-C:\Users\josiel.alves\Desktop\WebAPI C#\WebAPI-DevStore\C# Treinamento WebAPI\DevStore\DevStore.Infra\bin\Debug\EntityFramework.dll
-C:\Users\josiel.alves\Desktop\WebAPI C#\WebAPI-DevStore\C# Treinamento WebAPI\DevStore\DevStore.Infra\bin\Debug\EntityFramework.SqlServer.dll
-C:\Users\josiel.alves\Desktop\WebAPI C#\WebAPI-DevStore\C# Treinamento WebAPI\DevStore\DevStore.Infra\bin\Debug\DevStore.Domain.pdb
-C:\Users\josiel.alves\Desktop\WebAPI C#\WebAPI-DevStore\C# Treinamento WebAPI\DevStore\DevStore.Infra\bin\Debug\EntityFramework.xml
-C:\Users\josiel.alves\Desktop\WebAPI C#\WebAPI-DevStore\C# Treinamento WebAPI\DevStore\DevStore.Infra\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\josiel.alves\Desktop\WebAPI C#\WebAPI-DevStore\C# Treinamento WebAPI\DevStore\DevStore.Infra\obj\Debug\DevStore.Infra.csprojAssemblyReference.cache
-C:\Users\josiel.alves\Desktop\WebAPI C#\WebAPI-DevStore\C# Treinamento WebAPI\DevStore\DevStore.Infra\obj\Debug\DevStore.Infra.csproj.CoreCompileInputs.cache
-C:\Users\josiel.alves\Desktop\WebAPI C#\WebAPI-DevStore\C# Treinamento WebAPI\DevStore\DevStore.Infra\obj\Debug\DevStore.Infra.csproj.CopyComplete
-C:\Users\josiel.alves\Desktop\WebAPI C#\WebAPI-DevStore\C# Treinamento WebAPI\DevStore\DevStore.Infra\obj\Debug\DevStore.Infra.dll
-C:\Users\josiel.alves\Desktop\WebAPI C#\WebAPI-DevStore\C# Treinamento WebAPI\DevStore\DevStore.Infra\obj\Debug\DevStore.Infra.pdb
+C:\Users\josiel.alves\Desktop\Nova pasta\DevStore\DevStore.Infra\bin\Debug\DevStore.Infra.dll.config
+C:\Users\josiel.alves\Desktop\Nova pasta\DevStore\DevStore.Infra\bin\Debug\DevStore.Infra.dll
+C:\Users\josiel.alves\Desktop\Nova pasta\DevStore\DevStore.Infra\bin\Debug\DevStore.Infra.pdb
+C:\Users\josiel.alves\Desktop\Nova pasta\DevStore\DevStore.Infra\bin\Debug\DevStore.Domain.dll
+C:\Users\josiel.alves\Desktop\Nova pasta\DevStore\DevStore.Infra\bin\Debug\EntityFramework.dll
+C:\Users\josiel.alves\Desktop\Nova pasta\DevStore\DevStore.Infra\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\josiel.alves\Desktop\Nova pasta\DevStore\DevStore.Infra\bin\Debug\DevStore.Domain.pdb
+C:\Users\josiel.alves\Desktop\Nova pasta\DevStore\DevStore.Infra\bin\Debug\EntityFramework.xml
+C:\Users\josiel.alves\Desktop\Nova pasta\DevStore\DevStore.Infra\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\josiel.alves\Desktop\Nova pasta\DevStore\DevStore.Infra\obj\Debug\DevStore.Infra.csprojAssemblyReference.cache
+C:\Users\josiel.alves\Desktop\Nova pasta\DevStore\DevStore.Infra\obj\Debug\DevStore.Infra.csproj.CoreCompileInputs.cache
+C:\Users\josiel.alves\Desktop\Nova pasta\DevStore\DevStore.Infra\obj\Debug\DevStore.Infra.csproj.CopyComplete
+C:\Users\josiel.alves\Desktop\Nova pasta\DevStore\DevStore.Infra\obj\Debug\DevStore.Infra.dll
+C:\Users\josiel.alves\Desktop\Nova pasta\DevStore\DevStore.Infra\obj\Debug\DevStore.Infra.pdb

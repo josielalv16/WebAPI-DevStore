@@ -1,11 +1,18 @@
-C:\Users\josiel.alves\Desktop\TreinamentoBackEnd\C# Treinamento WebAPI\DevStore\DevStore.Domain\bin\Debug\DevStore.Domain.dll
-C:\Users\josiel.alves\Desktop\TreinamentoBackEnd\C# Treinamento WebAPI\DevStore\DevStore.Domain\bin\Debug\DevStore.Domain.pdb
-C:\Users\josiel.alves\Desktop\TreinamentoBackEnd\C# Treinamento WebAPI\DevStore\DevStore.Domain\obj\Debug\DevStore.Domain.csproj.CoreCompileInputs.cache
-C:\Users\josiel.alves\Desktop\TreinamentoBackEnd\C# Treinamento WebAPI\DevStore\DevStore.Domain\obj\Debug\DevStore.Domain.dll
-C:\Users\josiel.alves\Desktop\TreinamentoBackEnd\C# Treinamento WebAPI\DevStore\DevStore.Domain\obj\Debug\DevStore.Domain.pdb
-C:\Users\josiel.alves\Desktop\WebAPI C#\WebAPI-DevStore\C# Treinamento WebAPI\DevStore\DevStore.Domain\bin\Debug\DevStore.Domain.dll
-C:\Users\josiel.alves\Desktop\WebAPI C#\WebAPI-DevStore\C# Treinamento WebAPI\DevStore\DevStore.Domain\bin\Debug\DevStore.Domain.pdb
-C:\Users\josiel.alves\Desktop\WebAPI C#\WebAPI-DevStore\C# Treinamento WebAPI\DevStore\DevStore.Domain\obj\Debug\DevStore.Domain.csprojAssemblyReference.cache
-C:\Users\josiel.alves\Desktop\WebAPI C#\WebAPI-DevStore\C# Treinamento WebAPI\DevStore\DevStore.Domain\obj\Debug\DevStore.Domain.csproj.CoreCompileInputs.cache
-C:\Users\josiel.alves\Desktop\WebAPI C#\WebAPI-DevStore\C# Treinamento WebAPI\DevStore\DevStore.Domain\obj\Debug\DevStore.Domain.dll
-C:\Users\josiel.alves\Desktop\WebAPI C#\WebAPI-DevStore\C# Treinamento WebAPI\DevStore\DevStore.Domain\obj\Debug\DevStore.Domain.pdb
+C:\Users\josiel.alves\Desktop\Nova pasta\DevStore\DevStore.Domain\bin\Debug\DevStore.Domain.dll
+C:\Users\josiel.alves\Desktop\Nova pasta\DevStore\DevStore.Domain\bin\Debug\DevStore.Domain.pdb
+C:\Users\josiel.alves\Desktop\Nova pasta\DevStore\DevStore.Domain\obj\Debug\DevStore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\josiel.alves\Desktop\Nova pasta\DevStore\DevStore.Domain\obj\Debug\DevStore.Domain.dll
+C:\Users\josiel.alves\Desktop\Nova pasta\DevStore\DevStore.Domain\obj\Debug\DevStore.Domain.pdb
+C:\Users\josiel.alves\Desktop\Nova pasta\DevStore\DevStore.Domain\bin\Debug\Newtonsoft.Json.dll
+C:\Users\josiel.alves\Desktop\Nova pasta\DevStore\DevStore.Domain\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\josiel.alves\Desktop\Nova pasta\DevStore\DevStore.Domain\bin\Debug\System.Web.Cors.dll
+C:\Users\josiel.alves\Desktop\Nova pasta\DevStore\DevStore.Domain\bin\Debug\System.Web.Http.Cors.dll
+C:\Users\josiel.alves\Desktop\Nova pasta\DevStore\DevStore.Domain\bin\Debug\System.Web.Http.dll
+C:\Users\josiel.alves\Desktop\Nova pasta\DevStore\DevStore.Domain\bin\Debug\Newtonsoft.Json.xml
+C:\Users\josiel.alves\Desktop\Nova pasta\DevStore\DevStore.Domain\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\josiel.alves\Desktop\Nova pasta\DevStore\DevStore.Domain\bin\Debug\System.Web.Http.xml
+C:\Users\josiel.alves\Desktop\Nova pasta\DevStore\DevStore.Domain\bin\Debug\System.Web.Http.Cors.xml
+C:\Users\josiel.alves\Desktop\Nova pasta\DevStore\DevStore.Domain\bin\Debug\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\josiel.alves\Desktop\Nova pasta\DevStore\DevStore.Domain\bin\Debug\pt-br\System.Web.Http.resources.dll
+C:\Users\josiel.alves\Desktop\Nova pasta\DevStore\DevStore.Domain\obj\Debug\DevStore.Domain.csprojAssemblyReference.cache
+C:\Users\josiel.alves\Desktop\Nova pasta\DevStore\DevStore.Domain\obj\Debug\DevStore.Domain.csproj.CopyComplete

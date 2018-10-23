@@ -1,4 +1,8 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace DevStore.Domain
 {
@@ -8,7 +12,6 @@ namespace DevStore.Domain
         {
             this.AcquireDate = DateTime.Now;
         }
-        
         public int Id { get; set; }
         public string Title { get; set; }
         public decimal Price { get; set; }
